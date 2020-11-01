@@ -1,0 +1,13 @@
+Pins:
+
+Ultrasonic sensor  | Red Led:
+                   | anode - GND
+Echo - D9          | Cathod - Front sensor vcc
+Trig - D8          | 
+Vcc  - 5v          | Blue Led:
+GND  - GND         | Anode - GND
+                   | Cathod - Rear sensor vcc
+BUZZER:            |
+                   |
+positive - D2      |
+negitive - GND     |
