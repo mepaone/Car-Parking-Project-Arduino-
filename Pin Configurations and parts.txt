@@ -1,0 +1,15 @@
+Pins:
+
+Ultrasonic sensor  | Red Led:                  |Parts Required:
+                   | anode - GND               |- Arduino board(any)
+Echo - D9          | Cathod - Front sensor vcc |- DPST(1)
+Trig - D8          |                           |- Buzzer(1)
+Vcc  - 5v          | Blue Led:                 |- Ultrasonic sensor(2)
+GND  - GND         | Anode - GND               |- Jumpers(few)
+                   | Cathod - Rear sensor vcc  |- Breadboard(1)
+BUZZER:            |                           |- Resistor(2-100ohm)(optional)
+                   |                           |- LED's(Red,Blue).
+positive - D2      |
+negitive - GND     |
+
+
